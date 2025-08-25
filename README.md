@@ -53,3 +53,12 @@ npm install
 
 # start the dev server
 npm start
+
+
+## render
+
+http://localhost:3000/ 
+default app render
+
+http://localhost:3000/calculator.html 
+rendering in a html page 
