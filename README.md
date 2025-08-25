@@ -50,10 +50,6 @@ A small, learning-focused calculator built with React. It renders a grid of butt
 ```bash
 # install dependencies
 npm install
-# add mathjs
-npm install mathjs
-# (optional) Sass support
-npm install sass
 
 # start the dev server
 npm start

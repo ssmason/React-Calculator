@@ -1,4 +1,4 @@
-import './Calculator.css';
+import './Calculator.scss';
 import { useState } from 'react';
 import React from 'react'
 import { useRef } from 'react';
