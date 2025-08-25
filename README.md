@@ -49,7 +49,7 @@ A small, learning-focused calculator built with React. It renders a grid of butt
 
 ## Getting started
 
-```bash
+bash
 # install dependencies
 npm install
 
@@ -63,5 +63,9 @@ default app render
 
 http://localhost:3000/calculator.html 
 rendering in a html page 
+
+![Calculator Screenshot](screens/react-app.png)
+
+![HTML Calculator Screenshot](screens/react-app-html.png)
 
 
