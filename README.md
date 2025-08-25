@@ -44,6 +44,8 @@ A small, learning-focused calculator built with React. It renders a grid of butt
   - Set display to `0` and clear the flag.
 
 ---
+ 
+ 
 
 ## Getting started
 
@@ -52,8 +54,7 @@ A small, learning-focused calculator built with React. It renders a grid of butt
 npm install
 
 # start the dev server
-npm start
-
+npm start ```
 
 ## render
 
@@ -64,8 +65,3 @@ http://localhost:3000/calculator.html
 rendering in a html page 
 
 
-
- 
-![Calculator Screenshot](screens/react-app.png))
-
-![HTML Calculator Screenshot](screens/react-app-html.png)
