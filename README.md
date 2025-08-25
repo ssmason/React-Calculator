@@ -2,7 +2,7 @@
 
 **Author:** Stephen Mason
 
-A small, learning-focused calculator built with React. It renders a grid of buttons for digits and operators, shows the current expression on a display, and evaluates the expression safely using `mathjs`.
+A small calculator built with React. It renders a grid of buttons for digits and operators, shows the current expression on a display, and evaluates the expression safely using `mathjs`.
 
 ---
 
