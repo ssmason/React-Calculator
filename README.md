@@ -62,3 +62,10 @@ default app render
 
 http://localhost:3000/calculator.html 
 rendering in a html page 
+
+
+
+ 
+![Calculator Screenshot](screens/react-app.png))
+
+![HTML Calculator Screenshot](screens/react-app-html.png)
